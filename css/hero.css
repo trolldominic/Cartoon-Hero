@@ -1,0 +1,79 @@
+body{
+	margin: 0;
+	font-family: helvetica, arial, sans-serif;
+	font-size: 18px;
+	line-height: 20px;
+}
+
+header{
+	background-color: TOMATO;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom:10px;
+}
+
+h1, h2{
+	font-family: 'Shadows Into Light', cursive;
+}
+
+header h1{
+	color: white;
+	font-size: 70px;
+
+}
+
+header img{
+	    border-radius: 170px;
+    width: 300px;
+    border: 20px solid lightgoldenrodyellow;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 15px 0 30px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 40px;
+	color: tomato;
+	margin: 30px 0 40px
+}
+
+a{
+	color: tomato;
+}
+a:hover{
+	color: purple;
+}
+
+footer{
+	background-color: TOMATO;
+	text-align: right;
+	color: white;
+	font-size: 14px;
+	padding: 40px 0px 0px 0px;
+}
+
+footer p{
+	margin: 0;
+}
+
+footer a{
+	color: white;
+}
+
+footer a:hover{
+	opacity: .5;
+	background-color: transparent;
+}
+
+p.caption{
+	color: grey;
+	font-style: italic;
+	margin-top: 0;
+}
